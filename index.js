@@ -711,4 +711,4 @@ message.channel.send(gnome);
 });
 
 
-client.login('NzI0NTM3Mjc2MDQ2MjQ1OTQ4.XvBn6w.YucIuBnnp--OT2VKBYVtMMdTpvI')
+client.login('token here')
